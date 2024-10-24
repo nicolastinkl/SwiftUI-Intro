@@ -70,6 +70,11 @@ struct ContentView: View {
 
 ```
 
+## Other intros SwiftUI
+![](OtherIntrUI/10-07-48.png)
+![](OtherIntrUI/10-07-59.png)
+![](OtherIntrUI/10-08-07.png)
+
 ## Contribution
 
 Contributions are welcome! If you'd like to improve the animations or add new features, please feel free to open a pull request.
